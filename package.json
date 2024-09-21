@@ -6,6 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Adewale-D-A/adewale-npm-toolbox"
+  },
+  "homepage": "https://www.adewaleda.com/",
+  "keywords": [
+    "logic",
+    "utils",
+    "fast development"
+  ],
   "author": "adewale",
   "license": "ISC"
 }
