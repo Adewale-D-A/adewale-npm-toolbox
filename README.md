@@ -7,4 +7,4 @@
 
 ##### Deployment command
 
-> `npm publish access=public` to deploy to npmjs.com
+> `npm publish --access public` to deploy to npmjs.com

@@ -1,6 +1,6 @@
 {
   "name": "adewale-utils-toolbox",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "custom logics and function utils for fast and reusable development",
   "main": "index.js",
   "scripts": {
